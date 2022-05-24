@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @AkshayMoreAnalyst
 - 👀 I’m interested in Data, Data Models, Business Intelligence and Data exploration 
-- I'm having vast experties in analytical dashboard building using QlikSense
-- 🌱 I’m currently learning Data analysis using python and Tablue
-- 💞️ I’m looking to collaborate on various Data modeling project especially in Qlik, MS PowerBI and Tablue
+- I'm having vast experties in analytical dashboard building using SQL, QlikSense, Qlikview and NPrinting
+- 🌱 I’m currently learning Data analysis using SQL, Python and Tableau
+- 💞️ I’m looking to collaborate on various Data modeling project especially in Qlik, MS PowerBI and Tableau
 - 📫 You can reach to reach me on akshaymore333@gmail.com
 
 <!---
